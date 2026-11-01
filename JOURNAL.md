@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-29: I started planning StreamPixel, a long RGB display for my desk or wall. The idea is to show pixel animations, custom text and eventually music information. I worked around three P10 panels in a row an](#2026-10-29-i-started-planning-streampixel-a-long-rgb-display)
-2. [2026-10-30: Work session](#2026-10-30-work-session)
+2. [2026-10-30: I continued the Onshape frame, working on the depth, side walls and the rear of the enclosure. I also worked through the screw-hole layout so the back plate and the frame can attach properly. The fram](#2026-10-30-i-continued-the-onshape-frame-working-on-the-dept)
 3. [2026-10-31: Work session](#2026-10-31-work-session)
 4. [2026-11-01: Work session](#2026-11-01-work-session)
 
@@ -33,9 +33,15 @@ Tomorrow I want to finish the frame walls, work through the chamfer and start th
 
 [Timelapse](https://lookout.hackclub.com/api/media/3c22a00d-16e7-4c51-9636-060f5781bcba/video.mp4)
 
-### 2026-10-30: Work session
+### 2026-10-30: I continued the Onshape frame, working on the depth, side walls and the rear of the enclosure. I also worked through the screw-hole layout so the back plate and the frame can attach properly. The fram
 
 **5.85h**
+
+I continued the Onshape frame, working on the depth, side walls and the rear of the enclosure. I also worked through the screw-hole layout so the back plate and the frame can attach properly. The frame is meant to hold all three panels as one long display.
+
+The chamfer was confusing and I needed to check the selected edges and faces again. I also realised that the screw holes cannot just look close in the model: the matching parts need the same hole positions. I have been going back over those details before adding more parts around them.
+
+Tomorrow I want to work on the vents, screen retainers and the internal holders. I need to leave access for wiring and make sure the back can come off for repairs. The power supply is one of the larger things that needs to fit inside, so I do not want to use up that space with mounting features.
 
 [Timelapse](https://lookout.hackclub.com/api/media/35b835d7-4c43-4354-b50e-fdbe73208fe5/video.mp4)
 
