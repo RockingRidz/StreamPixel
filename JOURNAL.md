@@ -16,7 +16,7 @@
 
 1. [2026-10-29: I started planning StreamPixel, a long RGB display for my desk or wall. The idea is to show pixel animations, custom text and eventually music information. I worked around three P10 panels in a row an](#2026-10-29-i-started-planning-streampixel-a-long-rgb-display)
 2. [2026-10-30: I continued the Onshape frame, working on the depth, side walls and the rear of the enclosure. I also worked through the screw-hole layout so the back plate and the frame can attach properly. The fram](#2026-10-30-i-continued-the-onshape-frame-working-on-the-dept)
-3. [2026-10-31: Work session](#2026-10-31-work-session)
+3. [2026-10-31: I worked on the parts inside and behind the frame: the panel retainers, mounting positions, ventilation and the holders for the controller and power supply. I also wanted the case to sit away from the](#2026-10-31-i-worked-on-the-parts-inside-and-behind-the-frame)
 4. [2026-11-01: Work session](#2026-11-01-work-session)
 
 ## Design
@@ -45,9 +45,15 @@ Tomorrow I want to work on the vents, screen retainers and the internal holders.
 
 [Timelapse](https://lookout.hackclub.com/api/media/35b835d7-4c43-4354-b50e-fdbe73208fe5/video.mp4)
 
-### 2026-10-31: Work session
+### 2026-10-31: I worked on the parts inside and behind the frame: the panel retainers, mounting positions, ventilation and the holders for the controller and power supply. I also wanted the case to sit away from the
 
 **4.47h**
+
+I worked on the parts inside and behind the frame: the panel retainers, mounting positions, ventilation and the holders for the controller and power supply. I also wanted the case to sit away from the wall so the vents have somewhere to let air out.
+
+One issue was that I could only see one screen retainer when the full display needs several supports. I needed to go over the repeated retainers and their holes, rather than leave the mounting unfinished. I also clarified the part I had been calling the battery holder: this version uses a plugged-in 5V power supply. Its holder needs to suit that supply and leave room for the wiring.
+
+Next I want to check the complete set of parts together and sort out the manufacturing files. I need the CNC parts and printed holders clearly separated, along with the wiring schematic and a proper parts list. Actual component measurements will still be needed before fabrication.
 
 [Timelapse](https://lookout.hackclub.com/api/media/6620955c-3a0f-4344-af75-f46f7d84dbd6/video.mp4)
 
