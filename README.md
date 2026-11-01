@@ -1,47 +1,62 @@
 # StreamPixel
 
-StreamPixel is Ridith Shetty's three-panel RGB display project. The proposed build combines three P10 panels, an ESP32 controller, 5V logic buffers and a microphone for sound-reactive display effects. The nominal display is 96 × 16 pixels across a 960 × 160 mm panel array.
+StreamPixel is Ridith Shetty's three-panel RGB display project, using an ESP32 development board, perfboard, two 5V logic buffers and a MAX9814 microphone. Three nominal 320 × 160 mm P10 panels form a 960 × 160 mm display with 96 × 16 pixels. Local phone/browser controls provide scrolling text, colour animation/test and relative microphone activity.
 
-**Current status: design and fit review. No assembled or working hardware demo is claimed.** The CAD now includes a ventilated rear cover, six removable panel retainers, controller tray, supply cradle, wall spacers, splice plates, cable exit and engraved project/creator names. Real panel and supply measurements, printing, electrical installation and firmware testing remain outstanding.
+**This is a design and prototype handoff, not a claim of assembled, tested hardware. No custom PCB order is required.**
 
-![3D-printed frame, retainers, trays and rear mounts](images/onshape-printed-parts-final.png)
+![Whole frame, backplate and fittings assigned to CNC](images/cnc-parts.png)
 
-![Separate CNC acrylic rear-cover panels](images/onshape-acrylic-parts-final.png)
+![Only the supply holder and controller tray are 3D printed](images/printed-holders.png)
 
-![Editable controller schematic preview](electronics/previews/schematic.svg)
+![Active perfboard schematic](images/schematic.png)
 
-![Controller PCB development layout](electronics/previews/pcb-preview.png)
+![Nominal panel and supply reference layout](images/fit-reference.png)
 
-These four images show CAD and electronics design work. They are not evidence of assembled or tested hardware. The PCB is still in development.
+The reference-layout image shows placeholder panel thickness and supply dimensions. It is not a photo or a physical fit test.
 
-## Open the design
+## Files to use
 
-- [Editable Onshape document](https://cad.onshape.com/documents/ff33f56b02d9867b20260f9d/w/d771c62f16da9b74f071b096/e/aeadc6d027d2d7d05235b7d8): print preparation with native feature history.
-- `cad/exports/`: current STEP geometry for editing in CAD software.
-- `cad/source/`: FeatureScript source used in the Onshape document, alongside editable FreeCAD solid review models. FeatureScript alone is not a replacement for the STEP/native CAD source.
-- `cad/print/`: 35 individual fit-review STLs, each moved to its own local origin with its minimum Z at zero. Select a suitable print orientation in your slicer.
-- `cad/cnc/`: six individual 1:1 millimetre acrylic DXFs and a combined 515 × 390 mm layout. Read the cutting notes before ordering.
-- [CNC acrylic Onshape studio](https://cad.onshape.com/documents/ff33f56b02d9867b20260f9d/w/d771c62f16da9b74f071b096/e/97cd61c99cbb00f7ac08fe59): six separate 165 × 190 × 3 mm panels.
-- `electronics/source/`: KiCad schematic, board and project. The custom board is unfinished and must not be ordered.
-- `docs/PROTOTYPE-WIRING.md`: the separate ESP32 development-board/perfboard wiring route used for the budget plan.
-- [Bill of materials with prices and vendor links](bom.csv): priced prototype parts and historical delivery provisions; see [budget review](purchasing/BUDGET.md) and [unquoted requirements](purchasing/UNQUOTED-REQUIREMENTS.csv) for missing costs.
-- `firmware/STATUS.md`: firmware work still required. No tested firmware is included yet.
-- `archive/concept-cad/`: earlier concept exports retained for history. Do not mix these with the current Onshape export.
+- [CAD](CAD/): genuine editable FreeCAD source, STEP geometry, native Onshape FeatureScript source and the manufacturing handoff. The source is `.FCStd` plus STEP; these are not renamed Fusion `.f3d` files.
+- [CNC parts](CAD/CNC/): **one whole frame, one whole backplate, six panel retainers, four wall spacers and two hanger pads**. Use the 3D STEP files for milling; DXFs describe only their indicated flat profiles.
+- [3D-printed holders](CAD/3D_PRINTED/): **controller tray and two supply-holder halves only**. Print one of each STL. The supply holder is for the power supply, not a battery.
+- [Perfboard schematic](PCB/StreamPixel-perfboard.kicad_sch), [KiCad project](PCB/StreamPixel-perfboard.kicad_pro) and [PDF](PCB/StreamPixel-perfboard.pdf). Keep the adjacent symbol library and `sym-lib-table` with the project. The `PCB` folder contains wiring documentation, not a PCB manufacturing order.
+- [Firmware](FIRMWARE/README.md): ESP32 source, setup instructions and successful compile log. Actual display/microphone operation remains untested.
+- [BOM with recorded prices and vendor links](BOM.csv).
+- [Half Life journal](JOURNAL.md), mirrored from the project platform.
 
-## Dimensions and limitations
+Native Onshape studios: [CNC frame, backplate and fittings](https://cad.onshape.com/documents/ff33f56b02d9867b20260f9d/w/d771c62f16da9b74f071b096/e/97cd61c99cbb00f7ac08fe59) and [3D-printed holders only](https://cad.onshape.com/documents/ff33f56b02d9867b20260f9d/w/d771c62f16da9b74f071b096/e/aeadc6d027d2d7d05235b7d8).
 
-The main frame is 990 × 190 × 60 mm. The cover and rear spacers extend total front-to-wall depth to 78 mm. The front aperture is 958 × 158 mm and the locating pocket is 962 × 162 mm. Frame walls are 3 mm. The manufacturing model has 35 printed pieces and six CNC acrylic panels, separated into their own Onshape Part Studios, with XY footprints checked against an assumed 220 × 220 mm print bed.
+## Mechanical handoff
 
-The panel body thickness is a **15 mm placeholder**. The supply is represented by an **unverified 220 × 60 × 25 mm envelope**. Panel connector positions, gland mounting diameter, actual screw/nut fit, wall-anchor suitability, wiring space, temperature and load capacity need verification. A zero-overlap CAD result only checks the modeled geometry.
+The whole frame is **990 × 190 × 60 mm**, with a **958 × 158 mm** front aperture and **962 × 162 mm** locating pocket. The rear plate is **990 × 190 × 3 mm**. Spacers extend the total front-to-wall depth to **78 mm**. StreamPixel and Ridith Shetty are recessed in the front border.
 
-## Build route and power
+The deep frame is a **3D CNC milling job**, not a flat-sheet DXF cut. The shop must review stock, cutter access, internal corners, nut pockets, workholding, setups, material suitability and cost. No machine-specific CAM or G-code is supplied. Screws, nuts and wall anchors are purchased hardware, not CNC-cut acrylic parts.
 
-Use the development-board/perfboard route for the current cost plan; do not also buy the custom bare-module controller BOM. Three separately protected 5V branches feed the panels. The controller has its own branch and shares signal ground. Two HCT245 buffers translate ESP32 signals to 5V panel logic. Follow the GPIO wiring guide and confirm the actual panel connector before powering it.
+Panel body thickness remains a **15 mm placeholder**; the supply reference remains an **unverified 220 × 60 × 25 mm envelope**. Actual connector/terminal space, gland grip, panel tolerances, screw reach, wall loads and temperature need verification before manufacture. A CAD overlap check cannot establish physical fit or structural capacity.
 
-This is a plug-in supply design; no battery is included. The printed cradle does not provide a certified mains enclosure. Terminal protection, earthing, strain relief and installation must be suitable for the actual supply and checked before use.
+Hardware plan: **22 M3x10, four M3x25 and four M3x16 bolts; 30 M3 nuts**, plus suitable washers and wall anchors. Check actual fasteners and acrylic clamping before ordering.
 
-## What remains
+## Wiring and software
 
-Follow [the complete checklist](docs/FINISH-CHECKLIST.md). Main blockers are measured component fit, a print quote within the INR 5,500 budget, physical joint/load tests, final protected power installation and tested firmware. The saved custom-PCB report has 65 unconnected items; its geometric-clearance result alone is not fabrication approval.
+Follow [the GPIO wiring guide](PCB/WIRING.md). The schematic uses logical printed labels for the development board and microphone; it does not guess their physical header positions. HCT buffer and proposed panel-connector pin numbers are shown explicitly. Three separately protected branches feed the panels, with a separate controller branch and common ground. MAX9814 uses 3.3V and GPIO34 (ADC1).
 
-The existing journal remains unchanged. This technical README and packaging work were prepared with AI assistance and do not establish compliance with a program's authorship or submission rules. Record actual personal design work, logged sessions, test results and demo footage accurately.
+The active schematic passed KiCad ERC with **0 errors and 0 warnings**; its exported connectivity was checked against the selected GPIO mapping. Firmware compiled for **esp32:esp32:esp32**, using ESP32 core **3.3.11**, HUB75 library **3.0.14**, Adafruit GFX **1.12.6** and BusIO **1.17.4**. The build uses 963,684 bytes of flash and 48,672 bytes of global RAM. These are computer checks, not hardware test results.
+
+Panel output is disabled by default until the actual scan ratio, driver, connector and row mapping are verified and configured. The normal HUB75 geometry is not an unidentified 1/4-scan P10 remap. First test one panel at low brightness, then configure the three-panel chain. Spotify integration is not implemented.
+
+This is a plug-in 5V-supply build. Its holder is not a mains-rated enclosure. Suitable terminal guarding, earthing, strain relief and protected installation still need to be provided for the actual supply.
+
+## Budget and work still required
+
+Budget: **INR 5,500**. The historical parts/delivery provision in the BOM is **INR 4,965**, leaving INR 535 before manufacturing and missing items. Those recorded prices are not a fresh checkout quote. HD-WF1 is still in the recorded basket total but is not used by the ESP32 route.
+
+Still unquoted: the whole CNC frame and other CNC parts, three printed holder pieces, longer bolts, extra short bolts/nuts, washers, wall anchors, any extra terminals/wires and suitable supply protection. The final build is **not confirmed within INR 5,500**; the deep CNC frame especially needs a real quote before ordering.
+
+Before making or demonstrating it:
+
+1. Obtain the actual panel and supply measurements and update the model where needed.
+2. Have the CNC shop approve machining details and quote the complete job; get a print quote for the holders.
+3. Test fastener/joint fit and verify the mounting arrangement with the actual weight and wall.
+4. Check unpowered continuity, power polarity, protection and actual module/panel pinouts.
+5. Configure and test one panel, then three; measure current and enclosed temperatures.
+6. Record real assembled photos and an honest working/failure demo. No physical result or manufacturing approval is claimed here.

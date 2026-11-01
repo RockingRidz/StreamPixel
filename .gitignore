@@ -1,9 +1,0 @@
-*.kicad_prl
-*.lck
-*-backups/
-__pycache__/
-.DS_Store
-Thumbs.db
-purchasing/cart-evidence/
-*.FCStd1
-*.FCBak

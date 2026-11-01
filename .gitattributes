@@ -1,6 +1,0 @@
-*.step binary
-*.dxf binary
-*.stl binary
-*.FCStd binary
-*.svg -whitespace
-*.rpt -whitespace

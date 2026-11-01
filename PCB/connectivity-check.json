@@ -1,0 +1,7 @@
+{
+  "checked": "KiCad-exported connectivity against selected GPIO, buffer, HUB75, microphone, fuse and selector wiring; firmware pin agreement",
+  "connected_pin_count": 104,
+  "display_signal_paths_checked": 13,
+  "result": "PASS",
+  "hardware_tested": false
+}

@@ -1,0 +1,1 @@
+(sym_lib_table (version 7) (lib (name "StreamPixel") (type "KiCad") (uri "${KIPRJMOD}/StreamPixel.kicad_sym") (options "") (descr "Logical perfboard wiring symbols; not physical footprints")))

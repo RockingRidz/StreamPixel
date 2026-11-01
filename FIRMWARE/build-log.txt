@@ -1,0 +1,5 @@
+[USER]\OneDrive\Documents\Arduino\libraries\ESP32_HUB75_LED_MATRIX_PANEL_DMA_Display\src\platforms\esp32\esp32_i2s_parallel_dma.cpp:30:19: note: '#pragma message: Compiling for original ESP32 (released 2016)'
+   30 |   #pragma message "Compiling for original ESP32 (released 2016)"
+      |                   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sketch uses 963684 bytes (73%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 48672 bytes (14%) of dynamic memory, leaving 279008 bytes for local variables. Maximum is 327680 bytes.

@@ -1,0 +1,285 @@
+{
+  "cnc_parts": 14,
+  "printed_parts": 3,
+  "valid_solids": 17,
+  "solid_overlaps": [],
+  "parts": [
+    {
+      "name": "Hanger-pad-X350-Y59",
+      "process": "CNC",
+      "size_mm": [
+        24.0,
+        34.0,
+        6.0
+      ],
+      "assembly_min_mm": [
+        338.0,
+        42.0,
+        63.0
+      ],
+      "valid": true,
+      "volume_mm3": 4336.542695251393
+    },
+    {
+      "name": "Hanger-pad-X-350-Y59",
+      "process": "CNC",
+      "size_mm": [
+        24.0,
+        34.0,
+        6.0
+      ],
+      "assembly_min_mm": [
+        -362.0,
+        42.0,
+        63.0
+      ],
+      "valid": true,
+      "volume_mm3": 4336.542695251393
+    },
+    {
+      "name": "Panel-retainer-X320-Y83",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "assembly_min_mm": [
+        312.0,
+        75.0,
+        18.3
+      ],
+      "valid": true,
+      "volume_mm3": 764.7623916933767
+    },
+    {
+      "name": "Whole-backplate-990x190x3",
+      "process": "CNC",
+      "size_mm": [
+        990.0,
+        190.0000000000001,
+        3.0
+      ],
+      "assembly_min_mm": [
+        -495.0,
+        -95.00000000000006,
+        60.0
+      ],
+      "valid": true,
+      "volume_mm3": 455679.29099125764
+    },
+    {
+      "name": "Whole-frame-990x190x60",
+      "process": "CNC",
+      "size_mm": [
+        990.0000000000002,
+        190.0000000000002,
+        60.000000000000185
+      ],
+      "assembly_min_mm": [
+        -495.0000000000002,
+        -95.0000000000001,
+        -1.8118839761882555e-13
+      ],
+      "valid": true,
+      "volume_mm3": 578460.6512167896
+    },
+    {
+      "name": "Panel-retainer-X-40-Y-83",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "assembly_min_mm": [
+        -48.0,
+        -91.5,
+        18.3
+      ],
+      "valid": true,
+      "volume_mm3": 764.7623916933765
+    },
+    {
+      "name": "Wall-spacer-X-450-Y87",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.0,
+        15.0
+      ],
+      "assembly_min_mm": [
+        -458.0,
+        79.0,
+        63.0
+      ],
+      "valid": true,
+      "volume_mm3": 3586.1907295164765
+    },
+    {
+      "name": "Panel-retainer-X320-Y-83",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "assembly_min_mm": [
+        312.0,
+        -91.5,
+        18.3
+      ],
+      "valid": true,
+      "volume_mm3": 764.7623916933767
+    },
+    {
+      "name": "Wall-spacer-X-450-Y-87",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.000000000000057,
+        15.0
+      ],
+      "assembly_min_mm": [
+        -458.0,
+        -95.00000000000006,
+        63.0
+      ],
+      "valid": true,
+      "volume_mm3": 3586.190729516485
+    },
+    {
+      "name": "Panel-retainer-X-40-Y83",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "assembly_min_mm": [
+        -48.0,
+        75.0,
+        18.3
+      ],
+      "valid": true,
+      "volume_mm3": 764.7623916933765
+    },
+    {
+      "name": "Wall-spacer-X450-Y87",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.000000000000057,
+        15.0
+      ],
+      "assembly_min_mm": [
+        442.0,
+        79.0,
+        63.0
+      ],
+      "valid": true,
+      "volume_mm3": 3586.1907295164856
+    },
+    {
+      "name": "Panel-retainer-X-320-Y83",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "assembly_min_mm": [
+        -328.0,
+        75.0,
+        18.3
+      ],
+      "valid": true,
+      "volume_mm3": 764.7623916933767
+    },
+    {
+      "name": "Wall-spacer-X450-Y-87",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.0,
+        15.0
+      ],
+      "assembly_min_mm": [
+        442.0,
+        -95.0,
+        63.0
+      ],
+      "valid": true,
+      "volume_mm3": 3586.1907295164765
+    },
+    {
+      "name": "Panel-retainer-X-320-Y-83",
+      "process": "CNC",
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "assembly_min_mm": [
+        -328.0,
+        -91.5,
+        18.3
+      ],
+      "valid": true,
+      "volume_mm3": 764.7623916933767
+    },
+    {
+      "name": "Controller-tray",
+      "process": "3D_PRINTED",
+      "size_mm": [
+        162.0,
+        102.0,
+        18.0
+      ],
+      "assembly_min_mm": [
+        -328.5,
+        -51.0,
+        42.0
+      ],
+      "valid": true,
+      "volume_mm3": 52851.94072800926
+    },
+    {
+      "name": "Supply-holder-left",
+      "process": "3D_PRINTED",
+      "size_mm": [
+        120.0,
+        80.0,
+        39.0
+      ],
+      "assembly_min_mm": [
+        95.0,
+        -40.0,
+        21.0
+      ],
+      "valid": true,
+      "volume_mm3": 44161.97036400462
+    },
+    {
+      "name": "Supply-holder-right",
+      "process": "3D_PRINTED",
+      "size_mm": [
+        120.0,
+        80.0,
+        39.0
+      ],
+      "assembly_min_mm": [
+        215.0,
+        -40.0,
+        21.0
+      ],
+      "valid": true,
+      "volume_mm3": 44161.970364004585
+    }
+  ],
+  "limitations": [
+    "Panel thickness and supply envelope not measured",
+    "CNC milling feasibility, tooling, tolerances, stock and cost require manufacturer review",
+    "No physical fit, load or thermal tests completed"
+  ]
+}

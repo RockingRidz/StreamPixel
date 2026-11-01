@@ -1,0 +1,58 @@
+[
+  {
+    "file": "Panel-retainer-X320-Y83.dxf",
+    "width_mm": 16.0,
+    "height_mm": 16.5,
+    "closed_paths": true,
+    "area_matches_STEP": true,
+    "dxf_errors": 0
+  },
+  {
+    "file": "Whole-backplate-990x190x3.dxf",
+    "width_mm": 990.0,
+    "height_mm": 190.0000000000001,
+    "closed_paths": true,
+    "area_matches_STEP": true,
+    "dxf_errors": 0
+  },
+  {
+    "file": "Panel-retainer-X-40-Y-83.dxf",
+    "width_mm": 16.0,
+    "height_mm": 16.5,
+    "closed_paths": true,
+    "area_matches_STEP": true,
+    "dxf_errors": 0
+  },
+  {
+    "file": "Panel-retainer-X320-Y-83.dxf",
+    "width_mm": 16.0,
+    "height_mm": 16.5,
+    "closed_paths": true,
+    "area_matches_STEP": true,
+    "dxf_errors": 0
+  },
+  {
+    "file": "Panel-retainer-X-40-Y83.dxf",
+    "width_mm": 16.0,
+    "height_mm": 16.5,
+    "closed_paths": true,
+    "area_matches_STEP": true,
+    "dxf_errors": 0
+  },
+  {
+    "file": "Panel-retainer-X-320-Y83.dxf",
+    "width_mm": 16.0,
+    "height_mm": 16.5,
+    "closed_paths": true,
+    "area_matches_STEP": true,
+    "dxf_errors": 0
+  },
+  {
+    "file": "Panel-retainer-X-320-Y-83.dxf",
+    "width_mm": 16.0,
+    "height_mm": 16.5,
+    "closed_paths": true,
+    "area_matches_STEP": true,
+    "dxf_errors": 0
+  }
+]

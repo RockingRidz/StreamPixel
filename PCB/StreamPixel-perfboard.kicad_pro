@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "filename": "StreamPixel-perfboard.kicad_pro",
+    "version": 1
+  },
+  "erc": {
+    "erc_exclusions": []
+  }
+}
