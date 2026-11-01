@@ -1,29 +1,30 @@
-Item,Quantity,Unit_price_INR,Line_total_INR,Vendor,Link,Notes
-P10 RGB 2727 320x160 panel,3,650,1950,Koshi,https://koshielectronics.in/products/p10-rgb-led-module?variant=43978032611524,Listing includes one power cable and one FRC/data cable per module; verify actual scan and thickness
-5V 20A slim SMPS,1,549,549,Koshi,https://koshielectronics.in/products/xps-smps-5v-10a?variant=44089885327556,Case envelope and terminal protection need actual measurements
-Nylon Cable Tie / Wire Tag 200X3.6mm (Pack of 100),1,99,99,Quartz,https://quartzcomponents.com/products/tie-250x3-6-100-pc-in-each?variant=44025622003946,
-M3 x 8mm Flat SS Washer (Inner Dia. 3mm),24,2,48,Quartz,https://quartzcomponents.com/products/m3-zinc-plated-steel-washer?variant=45646474346730,8mm OD: use only where clearance permits; does not fit 7mm wall-foot head recess
-M3-15mm Bolt with Phillips Head (Mounting Screw) - Pack of 4,1,8,8,Quartz,https://quartzcomponents.com/products/phillips-head-m3-15mm-bolt-mounting-screw-for-pcb-pack-of-4?variant=42673979490538,Four bolts: cart substitute for nominal M3x16 hanger-pad bolts; verify actual stack and full nut engagement before fitting
-Phillips Head M3- 25mm bolt (Mounting Screw for PCB) - Pack of 4,1,10,10,Quartz,https://quartzcomponents.com/products/phillips-head-m3-25mm-bolt-mounting-screw-for-pcb-pack-of-4?variant=42673977032938,
-MAX9814 High Performance AGC Microphone Amplifier Module CMA-4544PF-W,1,221,221,Quartz,https://quartzcomponents.com/products/max9814-agc-microphone-amplifier-module-cma-4544pf-w?variant=44111409381610,
-M3 Hex Nut with 2mm height (pack of 4),8,11,88,Quartz,https://quartzcomponents.com/products/m3-hex-nut-with-2mm-height-pack-of-4?variant=42673973133546,Eight packs of four = 32 nuts; nominal CAD requires 30
-M3-10mm Bolt with Phillips Head(Mounting Screw for PCB) - Pack of 4,6,8,48,Quartz,https://quartzcomponents.com/products/phillips-head-m3-10mm-bolt-mounting-screw-for-pcb?variant=42673975886058,Six packs of four = 24 bolts; nominal CAD requires 22
-PG9 Cable Gland Connector (DIA-15mm)- Plastic Nylon Gland - Black,1,5,5,Quartz,https://quartzcomponents.com/products/pg9-cable-gland-connector-dia-15mm-plastic-nylon-gland-black?variant=45093311840490,Verify 15.6mm provisional CAD bore and 8mm wall grip against actual gland
-Heat Shrink Sleeve Tube - 5mm Diameter - Black - 1 meter,1,19,19,Quartz,https://quartzcomponents.com/products/heat-shrink-tube-5mm-diameter-black-1-meter?variant=37554769756344,
-1A Glass Fuse - 5x20mm,1,5,5,Quartz,https://quartzcomponents.com/products/1a-glass-fuse-5x20mm?variant=31898062028935,
-5A Glass Fuse - 5x20mm,3,4,12,Quartz,https://quartzcomponents.com/products/5a-glass-fuse-5x20mm?variant=31898062684295,
-Panel Mount 5A Fuse Holder (5x20MM),4,18,72,Quartz,https://quartzcomponents.com/products/panel-mount-5a-fuse-holder-5x20mm?variant=40656589029560,
-3 Pin Power Supply AC Extension Cord Power Cable 180v to 240v AC 10A - 1.3 meter,1,135,135,Quartz,https://quartzcomponents.com/products/3-pin-power-supply-ac-extension-cord-power-cable-180v-to-240v-ac-10a?variant=45819313094890,
-18AWG Silicone Wire Black ( 1 meter ) - High Quality Ultra Flexible for Battery Packs,2,42,84,Quartz,https://quartzcomponents.com/products/high-quality-ultra-flexible-18awg-silicone-wire-black-1-meter?variant=43104103596266,"Two 1m lengths; separate fused branches, not a 20A trunk; verify final routing and conductor ratings"
-18AWG Silicone Wire Red ( 1 meter ) - High Quality Ultra Flexible for Battery Packs,2,42,84,Quartz,https://quartzcomponents.com/products/high-quality-ultra-flexible-18awg-silicone-wire-red-1-meter?variant=43104098779370,"Two 1m lengths; separate fused branches, not a 20A trunk; verify final routing and conductor ratings"
-23AWG Single Strand Breadboard Connecting Wire (Black and Red - 1+1 Meter),1,25,25,Quartz,https://quartzcomponents.com/products/breadboard-connecting-wires-1-1-meter?variant=32394483105927,
-Samwha 470uF 25V 85 Degree Radial Electrolytic Capacitor - Through Hole,1,8,8,Quartz,https://quartzcomponents.com/products/samwha-470uf-25v-85-c-radial-electrolytic-capacitor-through-hole?variant=45746221187306,
-"10K ohm, 1/4 Watt Resistor with 5% tolerance (Pack of 10)",1,7,7,Quartz,https://quartzcomponents.com/products/10k-ohm-1-4-watt-resistor?variant=31898016710791,
-40 Pin Straight Female Header Pins - Berg Strips,1,10,10,Quartz,https://quartzcomponents.com/products/40-pin-straight-female-berg-strips?variant=31898065830023,
-40 Pin Straight Male Header Pins - Berg Strips,1,7,7,Quartz,https://quartzcomponents.com/products/40-pin-break-away-headers-straight-male-headers?variant=31898065633415,
-100nF / 0.1uF (104) 50V 1206 SMD Capacitor (Pack of 10 Pieces),1,16,16,Quartz,https://quartzcomponents.com/products/100nf-0-1uf-104-50v-1206-smd-capacitor-pack-of-10-pieces?variant=43526822232298,SMD parts require suitable soldering
-USB to micro-USB Cable for NodeMCU and Raspberry Pi,1,32,32,Quartz,https://quartzcomponents.com/products/raspberry-pi-cable-for-charging?variant=31897766428807,
-9x15cm Double Sided Universal PCB Prototype Board,1,108,108,Quartz,https://quartzcomponents.com/products/double-sided-universal-pcb-prototype-board-9x15cm?variant=45108700840170,
-ESP32 30 Pin CP2102 Development Board with Wi-Fi and Bluetooth,1,375,375,Quartz,https://quartzcomponents.com/products/esp32-30-pin-development-board-with-wi-fi-and-bluetooth?variant=45080070455530,
-SN74HCT245N DIP20,2,140,280,Industrybuying,https://www.industrybuying.com/industrial-automation-accessories-texas-instruments-IND.IND.231558858,5V HCT buffer; price includes product GST
-Buffer cart delivery,1,298,298,Industrybuying,https://www.industrybuying.com/order/cart,Displayed shipping estimate; final checkout may change
+Item,Qty,Supplier,Cost/item,Total Cost,link
+P10 RGB 2727 320x160 panel,3,Koshi,$0.00,$0.00,https://koshielectronics.in/products/p10-rgb-led-module?variant=43978032611524
+5V 20A slim SMPS,1,Koshi,$0.00,$0.00,https://koshielectronics.in/products/xps-smps-5v-10a?variant=44089885327556
+Nylon Cable Tie / Wire Tag 200X3.6mm (Pack of 100),1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/tie-250x3-6-100-pc-in-each?variant=44025622003946
+M3 x 8mm Flat SS Washer (Inner Dia. 3mm),24,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/m3-zinc-plated-steel-washer?variant=45646474346730
+M3-15mm Bolt with Phillips Head (Mounting Screw) - Pack of 4,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/phillips-head-m3-15mm-bolt-mounting-screw-for-pcb-pack-of-4?variant=42673979490538
+Phillips Head M3- 25mm bolt (Mounting Screw for PCB) - Pack of 4,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/phillips-head-m3-25mm-bolt-mounting-screw-for-pcb-pack-of-4?variant=42673977032938
+MAX9814 High Performance AGC Microphone Amplifier Module CMA-4544PF-W,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/max9814-agc-microphone-amplifier-module-cma-4544pf-w?variant=44111409381610
+M3 Hex Nut with 2mm height (pack of 4),8,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/m3-hex-nut-with-2mm-height-pack-of-4?variant=42673973133546
+M3-10mm Bolt with Phillips Head(Mounting Screw for PCB) - Pack of 4,6,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/phillips-head-m3-10mm-bolt-mounting-screw-for-pcb?variant=42673975886058
+PG9 Cable Gland Connector (DIA-15mm)- Plastic Nylon Gland - Black,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/pg9-cable-gland-connector-dia-15mm-plastic-nylon-gland-black?variant=45093311840490
+Heat Shrink Sleeve Tube - 5mm Diameter - Black - 1 meter,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/heat-shrink-tube-5mm-diameter-black-1-meter?variant=37554769756344
+1A Glass Fuse - 5x20mm,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/1a-glass-fuse-5x20mm?variant=31898062028935
+5A Glass Fuse - 5x20mm,3,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/5a-glass-fuse-5x20mm?variant=31898062684295
+Panel Mount 5A Fuse Holder (5x20MM),4,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/panel-mount-5a-fuse-holder-5x20mm?variant=40656589029560
+3 Pin Power Supply AC Extension Cord Power Cable 180v to 240v AC 10A - 1.3 meter,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/3-pin-power-supply-ac-extension-cord-power-cable-180v-to-240v-ac-10a?variant=45819313094890
+18AWG Silicone Wire Black ( 1 meter ) - High Quality Ultra Flexible for Battery Packs,2,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/high-quality-ultra-flexible-18awg-silicone-wire-black-1-meter?variant=43104103596266
+18AWG Silicone Wire Red ( 1 meter ) - High Quality Ultra Flexible for Battery Packs,2,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/high-quality-ultra-flexible-18awg-silicone-wire-red-1-meter?variant=43104098779370
+23AWG Single Strand Breadboard Connecting Wire (Black and Red - 1+1 Meter),1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/breadboard-connecting-wires-1-1-meter?variant=32394483105927
+Samwha 470uF 25V 85 Degree Radial Electrolytic Capacitor - Through Hole,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/samwha-470uf-25v-85-c-radial-electrolytic-capacitor-through-hole?variant=45746221187306
+"10K ohm, 1/4 Watt Resistor with 5% tolerance (Pack of 10)",1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/10k-ohm-1-4-watt-resistor?variant=31898016710791
+40 Pin Straight Female Header Pins - Berg Strips,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/40-pin-straight-female-berg-strips?variant=31898065830023
+40 Pin Straight Male Header Pins - Berg Strips,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/40-pin-break-away-headers-straight-male-headers?variant=31898065633415
+100nF / 0.1uF (104) 50V 1206 SMD Capacitor (Pack of 10 Pieces),1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/100nf-0-1uf-104-50v-1206-smd-capacitor-pack-of-10-pieces?variant=43526822232298
+USB to micro-USB Cable for NodeMCU and Raspberry Pi,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/raspberry-pi-cable-for-charging?variant=31897766428807
+9x15cm Double Sided Universal PCB Prototype Board,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/double-sided-universal-pcb-prototype-board-9x15cm?variant=45108700840170
+ESP32 30 Pin CP2102 Development Board with Wi-Fi and Bluetooth,1,Quartz,$0.00,$0.00,https://quartzcomponents.com/products/esp32-30-pin-development-board-with-wi-fi-and-bluetooth?variant=45080070455530
+SN74HCT245N DIP20,2,Industrybuying,$0.00,$0.00,https://www.industrybuying.com/industrial-automation-accessories-texas-instruments-IND.IND.231558858
+Buffer cart delivery,1,Industrybuying,$0.00,$0.00,https://www.industrybuying.com/order/cart
+Estimated total shipping,1,,,$0.00,
