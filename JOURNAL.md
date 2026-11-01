@@ -17,7 +17,7 @@
 1. [2026-10-29: I started planning StreamPixel, a long RGB display for my desk or wall. The idea is to show pixel animations, custom text and eventually music information. I worked around three P10 panels in a row an](#2026-10-29-i-started-planning-streampixel-a-long-rgb-display)
 2. [2026-10-30: I continued the Onshape frame, working on the depth, side walls and the rear of the enclosure. I also worked through the screw-hole layout so the back plate and the frame can attach properly. The fram](#2026-10-30-i-continued-the-onshape-frame-working-on-the-dept)
 3. [2026-10-31: I worked on the parts inside and behind the frame: the panel retainers, mounting positions, ventilation and the holders for the controller and power supply. I also wanted the case to sit away from the](#2026-10-31-i-worked-on-the-parts-inside-and-behind-the-frame)
-4. [2026-11-01: Work session](#2026-11-01-work-session)
+4. [2026-11-01: Today was mostly checking and organising the project for the design handoff. The CNC frame, back plate and fittings are separated from the three printed pieces: the controller tray and the two power-s](#2026-11-01-today-was-mostly-checking-and-organising-the-proj)
 
 ## Design
 
@@ -57,8 +57,18 @@ Next I want to check the complete set of parts together and sort out the manufac
 
 [Timelapse](https://lookout.hackclub.com/api/media/6620955c-3a0f-4344-af75-f46f7d84dbd6/video.mp4)
 
-### 2026-11-01: Work session
+### 2026-11-01: Today was mostly checking and organising the project for the design handoff. The CNC frame, back plate and fittings are separated from the three printed pieces: the controller tray and the two power-s
 
 **6.47h**
+
+Today was mostly checking and organising the project for the design handoff. The CNC frame, back plate and fittings are separated from the three printed pieces: the controller tray and the two power-supply holder halves. StreamPixel and Ridith Shetty are on the frame. The CAD package has STEP files, the flat cutting DXFs and editable source links. The digital check found 17 valid solids with no solid overlaps, but that does not replace checking the real parts.
+
+There were a few problems to sort out. Some retainer clearances needed correcting, the CNC and printed files had to be put in the right groups, and Half Life flagged that STEP alone was not editable source. Adding the native Onshape links to the project description cleared that check. The deep frame is a 3D CNC milling job; the flat DXFs alone cannot make the whole case.
+
+The perfboard schematic has a clean electrical check, and the ESP32 firmware compiles. The code includes local text/animation controls and microphone input. I have not powered a panel or tested the circuit physically, and Spotify is still a future feature. The panel scan setup needs checking before enabling display output.
+
+I checked the carts, added the microphone and mounting hardware, allowed 2m each of red and black power wire, and saved screenshots. The carts total Rs 4,603, including the displayed buffer-chip delivery. My budget is now Rs 6,445 including delivery. CNC work, printing, remaining delivery and final mounting/power protection still need pricing, so the remaining Rs 1,842 is not all upgrade money.
+
+Tomorrow I want to get the CNC quote and confirm the actual panel and power-supply dimensions, connectors and cable space. After those costs are covered, I can consider automatic brightness and buttons. Nothing has been ordered yet.
 
 [Timelapse](https://lookout.hackclub.com/api/media/894ca1fa-f476-43d4-95aa-2adbdd0a6d32/video.mp4)
