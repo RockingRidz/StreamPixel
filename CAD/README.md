@@ -20,7 +20,7 @@ Make one of each of the fourteen individually named STEP components:
 
 The deep frame, spacers and hanger pads are 3D milling geometry. Their STEP files control the complete shape. The shop must review material, stock, cutter access, workholding, internal radii, setups, fixturing and achievable tolerances. A router that cuts sheet profiles is not automatically able to make the deep frame. There is no machine-specific CAM or G-code in this package.
 
-The seven flat DXFs are the whole rear plate and six retainers. They are 1:1 millimetre closed cutting profiles. The additional frame-overall DXF is clearly marked **REFERENCE ONLY** and omits 3D machining details; do not cut the frame from that drawing alone. Apply tool/kerf compensation once in the shop's CAM. Get the material and machining quote before ordering; this job is not confirmed within INR 5,500.
+The seven flat DXFs are the whole rear plate and six retainers. They are 1:1 millimetre closed cutting profiles. The additional frame-overall DXF is clearly marked **REFERENCE ONLY** and omits 3D machining details; do not cut the frame from that drawing alone. Apply tool/kerf compensation once in the shop's CAM. Get the material and machining quote before ordering; this job is not confirmed within INR 6,445.
 
 ## Printed job
 
