@@ -14,16 +14,22 @@
 
 ## Contents
 
-1. [2026-10-29: Work session](#2026-10-29-work-session)
+1. [2026-10-29: I started planning StreamPixel, a long RGB display for my desk or wall. The idea is to show pixel animations, custom text and eventually music information. I worked around three P10 panels in a row an](#2026-10-29-i-started-planning-streampixel-a-long-rgb-display)
 2. [2026-10-30: Work session](#2026-10-30-work-session)
 3. [2026-10-31: Work session](#2026-10-31-work-session)
 4. [2026-11-01: Work session](#2026-11-01-work-session)
 
 ## Design
 
-### 2026-10-29: Work session
+### 2026-10-29: I started planning StreamPixel, a long RGB display for my desk or wall. The idea is to show pixel animations, custom text and eventually music information. I worked around three P10 panels in a row an
 
 **6.53h**
+
+I started planning StreamPixel, a long RGB display for my desk or wall. The idea is to show pixel animations, custom text and eventually music information. I worked around three P10 panels in a row and started the picture-frame style enclosure in Onshape. I want the electronics hidden inside, with the power cable coming out of the case.
+
+Getting started in Onshape took some figuring out. I got stuck on selecting the rear face for the side-wall sketch and understanding how the border should extrude. The outside and inside rectangles need to stay centred so the walls have an even thickness. I also had to think about the space behind the panels, rather than just making a border that looks right from the front.
+
+Tomorrow I want to finish the frame walls, work through the chamfer and start the back plate and mounting holes. I still need to choose the electronics and leave enough room for the power supply and cables.
 
 [Timelapse](https://lookout.hackclub.com/api/media/3c22a00d-16e7-4c51-9636-060f5781bcba/video.mp4)
 
