@@ -1,0 +1,916 @@
+{
+  "source": "Final separated Onshape STEP exports, 1 November 2026",
+  "solid_count": 41,
+  "printed_count": 35,
+  "acrylic_count": 6,
+  "all_shapes_valid": true,
+  "all_XY_within_assumed_220mm_bed": true,
+  "printed_volume_cm3": 770.0760519776293,
+  "acrylic_area_m2": 0.15189309699708614,
+  "solid_overlaps": [],
+  "parts": [
+    {
+      "name": "Frame section 6 end - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        190.0000000000002,
+        60.0
+      ],
+      "min_mm": [
+        330.0,
+        -95.0000000000001,
+        0.0
+      ],
+      "max_mm": [
+        495.0,
+        95.0000000000001,
+        60.0
+      ],
+      "volume_mm3": 121825.08583770262,
+      "stl_file": "01-Frame-section-6-end---fit-review.stl"
+    },
+    {
+      "name": "Rail splice plate 1 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        -346.0,
+        -92.0,
+        32.0
+      ],
+      "max_mm": [
+        -314.0,
+        -88.0,
+        52.0
+      ],
+      "volume_mm3": 2337.762391693377,
+      "stl_file": "02-Rail-splice-plate-1---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Frame section 5 top - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        16.0,
+        60.0
+      ],
+      "min_mm": [
+        165.0,
+        79.0,
+        0.0
+      ],
+      "max_mm": [
+        330.0,
+        95.0,
+        60.0
+      ],
+      "volume_mm3": 41984.47435016025,
+      "stl_file": "03-Frame-section-5-top---fit-review.stl"
+    },
+    {
+      "name": "Frame section 3 top - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        16.0,
+        60.0
+      ],
+      "min_mm": [
+        -165.0,
+        79.0,
+        0.0
+      ],
+      "max_mm": [
+        0.0,
+        95.0,
+        60.0
+      ],
+      "volume_mm3": 41984.474350160264,
+      "stl_file": "04-Frame-section-3-top---fit-review.stl"
+    },
+    {
+      "name": "Hanger pad X-350 - two M3x16",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        24.0,
+        34.0,
+        6.0
+      ],
+      "min_mm": [
+        -362.0,
+        42.0,
+        63.0
+      ],
+      "max_mm": [
+        -338.0,
+        76.0,
+        69.0
+      ],
+      "volume_mm3": 4336.542695251393,
+      "stl_file": "05-Hanger-pad-X-350---two-M3x16.stl"
+    },
+    {
+      "name": "Frame section 4 top - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        16.0,
+        60.0
+      ],
+      "min_mm": [
+        0.0,
+        79.0,
+        0.0
+      ],
+      "max_mm": [
+        165.0,
+        95.0,
+        60.0
+      ],
+      "volume_mm3": 40181.009965389065,
+      "stl_file": "06-Frame-section-4-top---fit-review.stl"
+    },
+    {
+      "name": "Panel retainer 6 - measured height required",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "min_mm": [
+        312.0,
+        75.0,
+        18.3
+      ],
+      "max_mm": [
+        328.0,
+        91.5,
+        21.3
+      ],
+      "volume_mm3": 764.7623916933767,
+      "stl_file": "07-Panel-retainer-6---measured-height-required.stl"
+    },
+    {
+      "name": "Wall spacer X450 Y87 - M3x25",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.000000000000057,
+        15.0
+      ],
+      "min_mm": [
+        442.0,
+        79.0,
+        63.0
+      ],
+      "max_mm": [
+        458.0,
+        95.00000000000006,
+        78.0
+      ],
+      "volume_mm3": 3586.1907295164856,
+      "stl_file": "08-Wall-spacer-X450-Y87---M3x25.stl"
+    },
+    {
+      "name": "Rail splice plate 5 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        -16.0,
+        -92.0,
+        32.0
+      ],
+      "max_mm": [
+        16.0,
+        -88.0,
+        52.0
+      ],
+      "volume_mm3": 2337.7623916933767,
+      "stl_file": "09-Rail-splice-plate-5---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Wall spacer X450 Y-87 - M3x25",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.0,
+        15.0
+      ],
+      "min_mm": [
+        442.0,
+        -95.0,
+        63.0
+      ],
+      "max_mm": [
+        458.0,
+        -79.0,
+        78.0
+      ],
+      "volume_mm3": 3586.1907295164765,
+      "stl_file": "10-Wall-spacer-X450-Y-87---M3x25.stl"
+    },
+    {
+      "name": "Hanger pad X350 - two M3x16",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        24.0,
+        34.0,
+        6.0
+      ],
+      "min_mm": [
+        338.0,
+        42.0,
+        63.0
+      ],
+      "max_mm": [
+        362.0,
+        76.0,
+        69.0
+      ],
+      "volume_mm3": 4336.5426952513935,
+      "stl_file": "11-Hanger-pad-X350---two-M3x16.stl"
+    },
+    {
+      "name": "Controller tray 160x100 - verify component clearance",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        162.0,
+        102.0,
+        18.0
+      ],
+      "min_mm": [
+        -328.5,
+        -51.0,
+        42.0
+      ],
+      "max_mm": [
+        -166.5,
+        51.0,
+        60.0
+      ],
+      "volume_mm3": 52851.94072800926,
+      "stl_file": "12-Controller-tray-160x100---verify-component-clearance.stl"
+    },
+    {
+      "name": "Rail splice plate 8 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        149.0,
+        88.0,
+        32.0
+      ],
+      "max_mm": [
+        181.0,
+        92.0,
+        52.0
+      ],
+      "volume_mm3": 2337.7623916933767,
+      "stl_file": "13-Rail-splice-plate-8---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Rail splice plate 4 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        -181.0,
+        88.0,
+        32.0
+      ],
+      "max_mm": [
+        -149.0,
+        92.0,
+        52.0
+      ],
+      "volume_mm3": 2337.7623916933767,
+      "stl_file": "14-Rail-splice-plate-4---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Rail splice plate 9 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        314.0,
+        -92.0,
+        32.0
+      ],
+      "max_mm": [
+        346.0,
+        -88.0,
+        52.0
+      ],
+      "volume_mm3": 2337.762391693377,
+      "stl_file": "15-Rail-splice-plate-9---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Panel retainer 2 - measured height required",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "min_mm": [
+        -328.0,
+        75.0,
+        18.3
+      ],
+      "max_mm": [
+        -312.0,
+        91.5,
+        21.3
+      ],
+      "volume_mm3": 764.7623916933767,
+      "stl_file": "16-Panel-retainer-2---measured-height-required.stl"
+    },
+    {
+      "name": "Panel retainer 1 - measured height required",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "min_mm": [
+        -328.0,
+        -91.5,
+        18.3
+      ],
+      "max_mm": [
+        -312.0,
+        -75.0,
+        21.3
+      ],
+      "volume_mm3": 764.7623916933767,
+      "stl_file": "17-Panel-retainer-1---measured-height-required.stl"
+    },
+    {
+      "name": "Rail splice plate 7 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        149.0,
+        -92.0,
+        32.0
+      ],
+      "max_mm": [
+        181.0,
+        -88.0,
+        52.0
+      ],
+      "volume_mm3": 2337.7623916933767,
+      "stl_file": "18-Rail-splice-plate-7---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Rail splice plate 2 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        -346.0,
+        88.0,
+        32.0
+      ],
+      "max_mm": [
+        -314.0,
+        92.0,
+        52.0
+      ],
+      "volume_mm3": 2337.7623916933767,
+      "stl_file": "19-Rail-splice-plate-2---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Rail splice plate 3 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        -181.0,
+        -92.0,
+        32.0
+      ],
+      "max_mm": [
+        -149.0,
+        -88.0,
+        52.0
+      ],
+      "volume_mm3": 2337.7623916933767,
+      "stl_file": "20-Rail-splice-plate-3---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Panel retainer 3 - measured height required",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "min_mm": [
+        -48.0,
+        -91.5,
+        18.3
+      ],
+      "max_mm": [
+        -32.0,
+        -75.0,
+        21.3
+      ],
+      "volume_mm3": 764.7623916933765,
+      "stl_file": "21-Panel-retainer-3---measured-height-required.stl"
+    },
+    {
+      "name": "Supply cradle left half - confirm case fit",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        120.0,
+        80.0,
+        39.0
+      ],
+      "min_mm": [
+        95.0,
+        -40.0,
+        21.0
+      ],
+      "max_mm": [
+        215.0,
+        40.0,
+        60.0
+      ],
+      "volume_mm3": 44161.97036400462,
+      "stl_file": "22-Supply-cradle-left-half---confirm-case-fit.stl"
+    },
+    {
+      "name": "Panel retainer 5 - measured height required",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "min_mm": [
+        312.0,
+        -91.5,
+        18.3
+      ],
+      "max_mm": [
+        328.0,
+        -75.0,
+        21.3
+      ],
+      "volume_mm3": 764.7623916933767,
+      "stl_file": "23-Panel-retainer-5---measured-height-required.stl"
+    },
+    {
+      "name": "Rail splice plate 6 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        -16.0,
+        88.0,
+        32.0
+      ],
+      "max_mm": [
+        16.0,
+        92.0,
+        52.0
+      ],
+      "volume_mm3": 2337.7623916933767,
+      "stl_file": "24-Rail-splice-plate-6---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Panel retainer 4 - measured height required",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.5,
+        3.0
+      ],
+      "min_mm": [
+        -48.0,
+        75.0,
+        18.3
+      ],
+      "max_mm": [
+        -32.0,
+        91.5,
+        21.3
+      ],
+      "volume_mm3": 764.7623916933765,
+      "stl_file": "25-Panel-retainer-4---measured-height-required.stl"
+    },
+    {
+      "name": "Frame section 5 bottom - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        16.0,
+        60.0
+      ],
+      "min_mm": [
+        165.0,
+        -95.0,
+        0.0
+      ],
+      "max_mm": [
+        330.0,
+        -79.0,
+        60.0
+      ],
+      "volume_mm3": 41984.47435016026,
+      "stl_file": "26-Frame-section-5-bottom---fit-review.stl"
+    },
+    {
+      "name": "Frame section 2 top - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        16.0,
+        60.0
+      ],
+      "min_mm": [
+        -330.0,
+        79.0,
+        0.0
+      ],
+      "max_mm": [
+        -165.0,
+        95.0,
+        60.0
+      ],
+      "volume_mm3": 41984.47435016024,
+      "stl_file": "27-Frame-section-2-top---fit-review.stl"
+    },
+    {
+      "name": "Frame section 3 bottom - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        16.0,
+        60.0
+      ],
+      "min_mm": [
+        -165.0,
+        -95.0,
+        -2.220446049250313e-16
+      ],
+      "max_mm": [
+        0.0,
+        -79.0,
+        60.0
+      ],
+      "volume_mm3": 41921.081902302205,
+      "stl_file": "28-Frame-section-3-bottom---fit-review.stl"
+    },
+    {
+      "name": "Wall spacer X-450 Y87 - M3x25",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.0,
+        15.0
+      ],
+      "min_mm": [
+        -458.0,
+        79.0,
+        63.0
+      ],
+      "max_mm": [
+        -442.0,
+        95.0,
+        78.0
+      ],
+      "volume_mm3": 3586.1907295164765,
+      "stl_file": "29-Wall-spacer-X-450-Y87---M3x25.stl"
+    },
+    {
+      "name": "Frame section 4 bottom - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        16.0,
+        60.0
+      ],
+      "min_mm": [
+        0.0,
+        -95.0,
+        -1.1102230246251565e-16
+      ],
+      "max_mm": [
+        165.0,
+        -79.0,
+        60.0
+      ],
+      "volume_mm3": 40070.82417651823,
+      "stl_file": "30-Frame-section-4-bottom---fit-review.stl"
+    },
+    {
+      "name": "Frame section 1 end - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.00000000000023,
+        190.0,
+        60.000000000000185
+      ],
+      "min_mm": [
+        -495.0000000000002,
+        -95.0,
+        -1.8118839761882555e-13
+      ],
+      "max_mm": [
+        -330.0,
+        95.0,
+        60.0
+      ],
+      "volume_mm3": 123995.75031323476,
+      "stl_file": "31-Frame-section-1-end---fit-review.stl"
+    },
+    {
+      "name": "Frame section 2 bottom - fit review",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        16.0,
+        60.0
+      ],
+      "min_mm": [
+        -330.0,
+        -95.0,
+        0.0
+      ],
+      "max_mm": [
+        -165.0,
+        -79.0,
+        60.0
+      ],
+      "volume_mm3": 41984.47435016025,
+      "stl_file": "32-Frame-section-2-bottom---fit-review.stl"
+    },
+    {
+      "name": "Supply cradle right half - confirm case fit",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        120.0,
+        80.0,
+        39.0
+      ],
+      "min_mm": [
+        215.0,
+        -40.0,
+        21.0
+      ],
+      "max_mm": [
+        335.0,
+        40.0,
+        60.0
+      ],
+      "volume_mm3": 44161.970364004585,
+      "stl_file": "33-Supply-cradle-right-half---confirm-case-fit.stl"
+    },
+    {
+      "name": "Rail splice plate 10 - M3x10 and two nuts",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        32.0,
+        4.0,
+        20.0
+      ],
+      "min_mm": [
+        314.0,
+        88.0,
+        32.0
+      ],
+      "max_mm": [
+        346.0,
+        92.0,
+        52.0
+      ],
+      "volume_mm3": 2337.7623916933767,
+      "stl_file": "34-Rail-splice-plate-10---M3x10-and-two-nuts.stl"
+    },
+    {
+      "name": "Wall spacer X-450 Y-87 - M3x25",
+      "material_set": "printed",
+      "valid": true,
+      "size_mm": [
+        16.0,
+        16.000000000000057,
+        15.0
+      ],
+      "min_mm": [
+        -458.0,
+        -95.00000000000006,
+        63.0
+      ],
+      "max_mm": [
+        -442.0,
+        -79.0,
+        78.0
+      ],
+      "volume_mm3": 3586.1907295164856,
+      "stl_file": "35-Wall-spacer-X-450-Y-87---M3x25.stl"
+    },
+    {
+      "name": "CNC acrylic panel 2",
+      "material_set": "acrylic",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        190.00000000000006,
+        3.0
+      ],
+      "min_mm": [
+        -330.0,
+        -95.00000000000004,
+        60.0
+      ],
+      "max_mm": [
+        -165.0,
+        95.0,
+        63.0
+      ],
+      "volume_mm3": 75012.71144100715
+    },
+    {
+      "name": "CNC acrylic panel 1",
+      "material_set": "acrylic",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        190.00000000000006,
+        3.0
+      ],
+      "min_mm": [
+        -495.0,
+        -95.00000000000006,
+        60.0
+      ],
+      "max_mm": [
+        -330.0,
+        95.0,
+        63.0
+      ],
+      "volume_mm3": 77198.59129692121
+    },
+    {
+      "name": "CNC acrylic panel 5",
+      "material_set": "acrylic",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        190.00000000000006,
+        3.0
+      ],
+      "min_mm": [
+        165.0,
+        -95.0,
+        60.0
+      ],
+      "max_mm": [
+        330.0,
+        95.00000000000004,
+        63.0
+      ],
+      "volume_mm3": 75094.42426592702
+    },
+    {
+      "name": "CNC acrylic panel 6",
+      "material_set": "acrylic",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        190.00000000000006,
+        3.0
+      ],
+      "min_mm": [
+        330.0,
+        -95.0,
+        60.0
+      ],
+      "max_mm": [
+        495.0,
+        95.00000000000006,
+        63.0
+      ],
+      "volume_mm3": 77171.35368861452
+    },
+    {
+      "name": "CNC acrylic panel 3",
+      "material_set": "acrylic",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        190.0,
+        3.0
+      ],
+      "min_mm": [
+        -165.0,
+        -95.00000000000001,
+        60.0
+      ],
+      "max_mm": [
+        1.5563070257674699e-30,
+        95.0,
+        63.0
+      ],
+      "volume_mm3": 75628.34275770087
+    },
+    {
+      "name": "CNC acrylic panel 4",
+      "material_set": "acrylic",
+      "valid": true,
+      "size_mm": [
+        165.0,
+        190.0,
+        3.0
+      ],
+      "min_mm": [
+        0.0,
+        -95.0,
+        60.0
+      ],
+      "max_mm": [
+        165.0,
+        95.00000000000001,
+        63.0
+      ],
+      "volume_mm3": 75573.8675410876
+    }
+  ],
+  "limitations": [
+    "Panel thickness 15mm unverified",
+    "Supply envelope 220x60x25mm unverified",
+    "15.6mm gland hole and 8mm grip require actual gland specification",
+    "No physical fit, thermal or load test",
+    "DXF geometry is nominal; CAM tool compensation belongs to manufacturer"
+  ]
+}

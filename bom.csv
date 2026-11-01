@@ -1,0 +1,27 @@
+Item,Quantity,Unit_price_INR,Line_total_INR,Vendor,Link,Notes
+P10 RGB 2727 320x160 panel,3,650,1950,Koshi,https://koshielectronics.in/products/p10-rgb-led-module,Nominal outline; thickness and pinout unverified
+5V 20A slim SMPS,1,549,549,Koshi,https://koshielectronics.in/cart,Actual case dimensions and terminal protection unverified
+HD-WF1 existing basket item,1,412,412,Koshi,https://koshielectronics.in/cart,Not required for ESP32 route; still budgeted
+Delivery reserve,1,240,240,Koshi,https://koshielectronics.in/cart,Allowance; verify checkout
+ESP32 30pin CP2102 dev board,1,375,375,Quartz,https://quartzcomponents.com/cart,Prototype route
+90x150mm perfboard,1,108,108,Quartz,https://quartzcomponents.com/cart,Prototype route
+Micro USB cable,1,32,32,Quartz,https://quartzcomponents.com/cart,
+100nF 1206 capacitor pack10,1,16,16,Quartz,https://quartzcomponents.com/cart,SMD parts require suitable soldering
+40pin male header,1,7,7,Quartz,https://quartzcomponents.com/cart,Unkeyed connector: verify pin1
+40pin female header,1,10,10,Quartz,https://quartzcomponents.com/cart,
+10k resistor pack10,1,7,7,Quartz,https://quartzcomponents.com/cart,
+470uF 25V capacitor,1,8,8,Quartz,https://quartzcomponents.com/cart,
+Signal wire red and black 1m each,1,25,25,Quartz,https://quartzcomponents.com/cart,
+18AWG red silicone wire 1m,1,42,42,Quartz,https://quartzcomponents.com/cart,Separate fused branches; not a 20A trunk
+18AWG black silicone wire 1m,1,42,42,Quartz,https://quartzcomponents.com/cart,
+3pin AC lead 1.3m,1,135,135,Quartz,https://quartzcomponents.com/cart,Installation and earth verification required
+Panel fuse holders,4,18,72,Quartz,https://quartzcomponents.com/cart,DC branch holders
+5A fuses,3,4,12,Quartz,https://quartzcomponents.com/cart,Check actual branch current and wire ratings
+1A fuse,1,5,5,Quartz,https://quartzcomponents.com/cart,Controller branch
+5mm heatshrink 1m,1,19,19,Quartz,https://quartzcomponents.com/cart,
+PG9 gland,1,5,5,Quartz,https://quartzcomponents.com/cart,CAD hole provisional 15.6mm; verify thread and wall grip
+M3x10 bolts currently budgeted,20,2,40,Quartz,https://quartzcomponents.com/cart,Final CAD requires 42 M3x10 plus 4 M3x25 and 4 M3x16; extra bolts unquoted
+M3 nuts currently budgeted,20,2.75,55.0,Quartz,https://quartzcomponents.com/cart,Final CAD requires 50 nuts; 30 extra unquoted
+MAX9814 microphone module,1,221,221,Quartz,https://quartzcomponents.com/cart,3.3V power; add verified signal wiring
+SN74HCT245N DIP20,2,140,280,Industrybuying,https://www.industrybuying.com/order/cart,5V buffer; HCT logic
+Buffer delivery,1,298,298,Industrybuying,https://www.industrybuying.com/order/cart,Historical cart delivery charge
